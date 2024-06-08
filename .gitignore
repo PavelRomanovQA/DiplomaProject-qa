@@ -25,12 +25,14 @@ data/
 *.ipr
 out/
 
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
+.dbeaver
 
 ### VS Code ###
 .vscode/
